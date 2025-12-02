@@ -2,7 +2,19 @@
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2024 - 50 ⭐
+  Advent of Code - 504/504 ⭐
+</h1>
+<h1 align="center">
+  2025 - 4 ⭐ - Python
+</h1>
+<a href="2025/01.py">
+  <img src=".aoc_tiles/tiles/2025/01.png" width="161px">
+</a>
+<a href="2025/02.py">
+  <img src=".aoc_tiles/tiles/2025/02.png" width="161px">
+</a>
+<h1 align="center">
+  2024 - 50 ⭐ - Python
 </h1>
 <a href="2024/01.ex">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
@@ -80,7 +92,7 @@
   <img src=".aoc_tiles/tiles/2024/25.png" width="161px">
 </a>
 <h1 align="center">
-  2023 - 50 ⭐
+  2023 - 50 ⭐ - Python
 </h1>
 <a href="2023/01.ex">
   <img src=".aoc_tiles/tiles/2023/01.png" width="161px">
@@ -158,7 +170,7 @@
   <img src=".aoc_tiles/tiles/2023/25.png" width="161px">
 </a>
 <h1 align="center">
-  2022 - 50 ⭐
+  2022 - 50 ⭐ - Python
 </h1>
 <a href="2022/01.ex">
   <img src=".aoc_tiles/tiles/2022/01.png" width="161px">
@@ -236,7 +248,7 @@
   <img src=".aoc_tiles/tiles/2022/25.png" width="161px">
 </a>
 <h1 align="center">
-  2021 - 50 ⭐
+  2021 - 50 ⭐ - Python
 </h1>
 <a href="2021/01.py">
   <img src=".aoc_tiles/tiles/2021/01.png" width="161px">
@@ -314,7 +326,7 @@
   <img src=".aoc_tiles/tiles/2021/25.png" width="161px">
 </a>
 <h1 align="center">
-  2020 - 50 ⭐
+  2020 - 50 ⭐ - Python
 </h1>
 <a href="2020/01.py">
   <img src=".aoc_tiles/tiles/2020/01.png" width="161px">
@@ -392,7 +404,7 @@
   <img src=".aoc_tiles/tiles/2020/25.png" width="161px">
 </a>
 <h1 align="center">
-  2019 - 50 ⭐
+  2019 - 50 ⭐ - Python
 </h1>
 <a href="go_2019/01/main.go">
   <img src=".aoc_tiles/tiles/2019/01.png" width="161px">
@@ -470,7 +482,7 @@
   <img src=".aoc_tiles/tiles/2019/25.png" width="161px">
 </a>
 <h1 align="center">
-  2018 - 50 ⭐
+  2018 - 50 ⭐ - Python
 </h1>
 <a href="2018/day_01.py">
   <img src=".aoc_tiles/tiles/2018/01.png" width="161px">
@@ -548,7 +560,7 @@
   <img src=".aoc_tiles/tiles/2018/25.png" width="161px">
 </a>
 <h1 align="center">
-  2017 - 50 ⭐
+  2017 - 50 ⭐ - 
 </h1>
 <a href="2017/01_day/1_solution.scala">
   <img src=".aoc_tiles/tiles/2017/01.png" width="161px">
@@ -626,7 +638,7 @@
   <img src=".aoc_tiles/tiles/2017/25.png" width="161px">
 </a>
 <h1 align="center">
-  2016 - 50 ⭐
+  2016 - 50 ⭐ - 
 </h1>
 <a href="2016/01/solution.scala">
   <img src=".aoc_tiles/tiles/2016/01.png" width="161px">
@@ -704,7 +716,7 @@
   <img src=".aoc_tiles/tiles/2016/25.png" width="161px">
 </a>
 <h1 align="center">
-  2015 - 50 ⭐
+  2015 - 50 ⭐ - Python
 </h1>
 <a href="2015/01.py">
   <img src=".aoc_tiles/tiles/2015/01.png" width="161px">
