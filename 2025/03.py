@@ -11,9 +11,9 @@ call = 0
 @cache
 def largest(line, level):
     global call
-    call += 1
-    if call % 1000000 == 0:
-        print(f'Call: {call}')
+    #call += 1
+    # if call % 1000000 == 0:
+        # print(f'Call: {call}')
     #print(line, level)
     if level == 0 or len(line)==0:
         return ''
@@ -34,9 +34,9 @@ tot1 = 0
 tot2 = 0
 for line in lines:
     r1 = largest(line, 2)
-    print(f'{line} =>>> {r1}')
+    #print(f'{line} =>>> {r1}')
     r2 = largest(line, 12)
-    print(f'{line} =>>> {r2}')
+    #print(f'{line} =>>> {r2}')
     tot1 += int(r1)
     tot2 += int(r2)
 
